@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Posts
+  url: /posts/
+
+- title: Sobre Mim
+  url: /about/
+
+- title: JBUG Brasil
+  url: /community/
+
