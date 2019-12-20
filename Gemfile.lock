@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
+    RedCloth (4.2.9-x86-mingw32)
     blankslate (2.1.2.4)
     classifier-reborn (2.0.3)
       fast-stemmer (~> 1.0)
@@ -12,9 +13,9 @@ GEM
     colorator (0.1)
     execjs (2.6.0)
     fast-stemmer (1.0.2)
-    ffi (1.9.10)
-    ffi (1.9.10-x64-mingw32)
-    ffi (1.9.10-x86-mingw32)
+    ffi (1.11.3)
+    ffi (1.11.3-x64-mingw32)
+    ffi (1.11.3-x86-mingw32)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
