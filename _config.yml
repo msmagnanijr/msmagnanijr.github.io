@@ -35,10 +35,10 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: UA-68660365-1
+    analytics: UA-154917724-1
     verify:
     ad-client: "ca-pub-3315278657740846"
-    ad-slot: 8102354619
+    ad-slot: 5088684753 
   bing-verify:
   github: msmagnanijr
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
