@@ -5,6 +5,8 @@ tags: [plugin, openshift, cloud, troubleshooting, etcd]
 comments: true
 ---
 
+OpenShift is an open source container application platform by Red Hat based on the Kubernetes container orchestrator. [The Kubernetes platform for big ideas.](https://www.openshift.com/learn/what-is-openshift)
+
 ##  Writing Plug-ins
 
 A very interesting feature was made available as a tech preview from OpenShift 3.7. This feature allows the OpenShift cluster administrator to create custom plugins to improve productivity in administration/troubleshooting.
