@@ -2,7 +2,7 @@
 
 title:            Mauricio Magnani
 locale:           pt_BR
-url:		  http://mmagnani.work
+url:		  http://mlab.run
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Mauricio Magnani
   avatar: mmagnani.jpg
-  bio: "Apaixonado pela vida, felicidade essa é minha vibe!"
+  bio: "A guy who loves technology and new challenges!"
   email: msmagnanijr@gmail.com
   disqus-shortname: mmagnani
   twitter: #username
