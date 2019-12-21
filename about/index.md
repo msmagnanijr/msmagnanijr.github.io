@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sobre Mim
+title: About me
 tags: [about, Jekyll, theme, responsive]
 comments: true
 ---
 
-Mauricio Magnani - 30 anos.
+Mauricio Magnani
 
-Este é meu blog pessoal. As opiniões aqui expressadas são de única responsabilidade minha, e nada referem-se as da empresa para qual trabalho.
+This is my personal blog. The opinions expressed here are my sole responsibility, and they do not refer to the company I work for.
 
-Meu antigo blog: [JBossDivers](https://jbossdivers.wordpress.com)
+My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
