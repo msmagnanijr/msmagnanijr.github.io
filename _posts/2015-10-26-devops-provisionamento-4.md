@@ -307,9 +307,3 @@ Lembre-se que esse é um assunto muito extenso e muita coisa ainda será refator
 [JaCoCO](http://eclemma.org/jacoco/trunk/doc/maven.html)
 
 [WildFly](http://wildfly.org)
-
-[DevOps - Uma Abordagem Prática - Capítulo I](http://mmagnani.me/2015/10/21/devops-provisionamento-1)
-
-[DevOps - Uma Abordagem Prática - Capítulo II](http://mmagnani.me/2015/10/22/devops-provisionamento-2)
-
-[DevOps - Uma Abordagem Prática - Capítulo III](http://mmagnani.me/2015/10/25/devops-provisionamento-3)

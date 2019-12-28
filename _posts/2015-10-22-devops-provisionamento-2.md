@@ -488,14 +488,4 @@ INFO: Conference scheduled for build
 Oct 21, 2015 2:28:27 PM hudson.model.Run execute
 {% endhighlight %}
 
-
 Todo o processo foi realizado com sucesso utilizando o mecanismo de WebHook. 
-
-Os arquivos utilizados até o momento estão no GitHub: https://github.com/msmagnanijr/devops-blog
-
-
-[DevOps - Uma Abordagem Prática - Capítulo I](http://mmagnani.me/2015/10/21/devops-provisionamento-1)
-
-[DevOps - Uma Abordagem Prática - Capítulo III](http://mmagnani.me/2015/10/25/devops-provisionamento-3)
-
-[DevOps - Uma Abordagem Prática - Capítulo IV](http://mmagnani.me/2015/10/26/devops-provisionamento-4)

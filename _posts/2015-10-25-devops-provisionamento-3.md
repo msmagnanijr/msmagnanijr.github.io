@@ -814,10 +814,3 @@ Navegue até o Jenkins no JOB Conference [http://jenkins:8080/job/Conference](ht
 [Arquillian](https://github.com/jboss-developer/jboss-developer-shared-resources/blob/master/guides/RUN_ARQUILLIAN_TESTS.md)
 
 [WildFly](http://wildfly.org)
-
-
-[DevOps - Uma Abordagem Prática - Capítulo I](http://mmagnani.me/2015/10/21/devops-provisionamento-1)
-
-[DevOps - Uma Abordagem Prática - Capítulo II](http://mmagnani.me/2015/10/22/devops-provisionamento-2)
-
-[DevOps - Uma Abordagem Prática - Capítulo IV](http://mmagnani.me/2015/10/26/devops-provisionamento-4)
