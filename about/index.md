@@ -17,6 +17,10 @@ My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
 
 ![](/images/cert-01-EX248.png)
 
-## EX280 - Red Hat Certificate Od Expertise In Platform-as-a-Service Red Hat OpenShift Enterprise 3.0
+## EX280 - Red Hat Certificate Of Expertise In Platform-as-a-Service Red Hat OpenShift Enterprise 3.0
 
 ![](/images/cert-02-EX280.png)
+
+## EX450 - Red Hat Certificate Of Expertise In Data Virtualization Red Hat JBoss Data Virtualization 6.0
+
+![](/images/cert-03-EX450.png)
