@@ -48,3 +48,11 @@ My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
 ## EX280 - Red Hat Certificate Of Expertise In Platform-as-a-Service - Red Hat Openshift Container Platform 3.4
 
 ![](/images/cert-09-EX280.png)
+
+## EX270 - Red Hat Certified Specialist in Container Management - Red Hat Enterprise Linux Atomic Host 7.2
+
+![](/images/cert-10-EX70.png)
+
+## EX220 - Red Hat Certified Specialist in Hybrid Cloud Management - Red Hat CloudForms 4
+
+![](/images/cert-11-EX220.png)
