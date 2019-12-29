@@ -13,14 +13,22 @@ My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
 
 ## My Certifications
 
-## EX248 - Red Hat Certified JBoss Administrator JBoss Enterprise Application Platform 6
+## EX248 - Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 6.0
 
 ![](/images/cert-01-EX248.png)
 
-## EX280 - Red Hat Certificate Of Expertise In Platform-as-a-Service Red Hat OpenShift Enterprise 3.0
+## EX280 - Red Hat Certificate Of Expertise In Platform-as-a-Service - Red Hat OpenShift Enterprise 3.0
 
 ![](/images/cert-02-EX280.png)
 
-## EX450 - Red Hat Certificate Of Expertise In Data Virtualization Red Hat JBoss Data Virtualization 6.0
+## EX450 - Red Hat Certificate Of Expertise In Data Virtualization - Red Hat JBoss Data Virtualization 6.0
 
 ![](/images/cert-03-EX450.png)
+
+## EX248 - Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 6.0
+
+![](/images/cert-04-EX248.png)
+
+## EX234 - Red Hat Certificate Of Expertise In Application Systems Management - Red Hat JBoss Operations Network 3.0
+
+![](/images/cert-05-EX234.png)
