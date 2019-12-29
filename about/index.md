@@ -13,10 +13,10 @@ My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
 
 ## My Certifications
 
-# EX248 - Red Hat Certified JBoss Administrator JBoss Enterprise Application Platform 6
+## EX248 - Red Hat Certified JBoss Administrator JBoss Enterprise Application Platform 6
 
 ![](/images/cert-01-EX248.png)
 
-# EX280 - Red Hat Certificate Od Expertise In Platform-as-a-Service Red Hat OpenShift Enterprise 3.0
+## EX280 - Red Hat Certificate Od Expertise In Platform-as-a-Service Red Hat OpenShift Enterprise 3.0
 
 ![](/images/cert-02-EX280.png)
