@@ -32,3 +32,19 @@ My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
 ## EX234 - Red Hat Certificate Of Expertise In Application Systems Management - Red Hat JBoss Operations Network 3.0
 
 ![](/images/cert-05-EX234.png)
+
+## EX200 - Red Hat Certified System Administrator - Red Hat Enterprise Linux 7
+
+![](/images/cert-06-EX200.png)
+
+## EX248 - Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 7.0
+
+![](/images/cert-07-EX248.png)
+
+## EX276 - Red Hat Certificate of Expertise in Containerized Application Development - Red Hat Enterprise Linux Atomic Host 7
+
+![](/images/cert-08-EX276.png)
+
+## EX280 - Red Hat Certificate Of Expertise In Platform-as-a-Service - Red Hat Openshift Container Platform 3.4
+
+![](/images/cert-09-EX280.png)
