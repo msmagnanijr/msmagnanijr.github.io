@@ -56,3 +56,15 @@ My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
 ## EX220 - Red Hat Certified Specialist in Hybrid Cloud Management - Red Hat CloudForms 4
 
 ![](/images/cert-11-EX220.png)
+
+## EX405 - Red Hat Certified Specialist in Configuration Management - Red Hat Satellite 6.1
+
+![](/images/cert-12-EX405.png)
+
+## EX300 - Red Hat Certified Engineer - Red Hat Enterprise Linux 7
+
+![](/images/cert-13-EX300.png)
+
+## Red Hat Certified Architect
+
+![](/images/cert-14-rhca.png)
