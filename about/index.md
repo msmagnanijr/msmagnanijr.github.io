@@ -13,55 +13,55 @@ My old blog: [JBossDivers](https://jbossdivers.wordpress.com)
 
 ## My Certifications
 
-## EX248 - Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 6.0
+## Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 6.0
 
 ![](/images/cert-01-EX248.png)
 
-## EX280 - Red Hat Certificate Of Expertise In Platform-as-a-Service - Red Hat OpenShift Enterprise 3.0
+## Red Hat Certificate Of Expertise In Platform-as-a-Service - Red Hat OpenShift Enterprise 3.0
 
 ![](/images/cert-02-EX280.png)
 
-## EX450 - Red Hat Certificate Of Expertise In Data Virtualization - Red Hat JBoss Data Virtualization 6.0
+## Red Hat Certificate Of Expertise In Data Virtualization - Red Hat JBoss Data Virtualization 6.0
 
 ![](/images/cert-03-EX450.png)
 
-## EX248 - Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 6.0
+## Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 6.0
 
 ![](/images/cert-04-EX248.png)
 
-## EX234 - Red Hat Certificate Of Expertise In Application Systems Management - Red Hat JBoss Operations Network 3.0
+## Red Hat Certificate Of Expertise In Application Systems Management - Red Hat JBoss Operations Network 3.0
 
 ![](/images/cert-05-EX234.png)
 
-## EX200 - Red Hat Certified System Administrator - Red Hat Enterprise Linux 7
+## Red Hat Certified System Administrator - Red Hat Enterprise Linux 7
 
 ![](/images/cert-06-EX200.png)
 
-## EX248 - Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 7.0
+## Red Hat Certified JBoss Administrator - JBoss Enterprise Application Platform 7.0
 
 ![](/images/cert-07-EX248.png)
 
-## EX276 - Red Hat Certificate of Expertise in Containerized Application Development - Red Hat Enterprise Linux Atomic Host 7
+## Red Hat Certificate of Expertise in Containerized Application Development - Red Hat Enterprise Linux Atomic Host 7
 
 ![](/images/cert-08-EX276.png)
 
-## EX280 - Red Hat Certificate Of Expertise In Platform-as-a-Service - Red Hat Openshift Container Platform 3.4
+## Red Hat Certificate Of Expertise In Platform-as-a-Service - Red Hat Openshift Container Platform 3.4
 
 ![](/images/cert-09-EX280.png)
 
-## EX270 - Red Hat Certified Specialist in Container Management - Red Hat Enterprise Linux Atomic Host 7.2
+## Red Hat Certified Specialist in Container Management - Red Hat Enterprise Linux Atomic Host 7.2
 
 ![](/images/cert-10-EX70.png)
 
-## EX220 - Red Hat Certified Specialist in Hybrid Cloud Management - Red Hat CloudForms 4
+## Red Hat Certified Specialist in Hybrid Cloud Management - Red Hat CloudForms 4
 
 ![](/images/cert-11-EX220.png)
 
-## EX405 - Red Hat Certified Specialist in Configuration Management - Red Hat Satellite 6.1
+## Red Hat Certified Specialist in Configuration Management - Red Hat Satellite 6.1
 
 ![](/images/cert-12-EX405.png)
 
-## EX300 - Red Hat Certified Engineer - Red Hat Enterprise Linux 7
+## Red Hat Certified Engineer - Red Hat Enterprise Linux 7
 
 ![](/images/cert-13-EX300.png)
 
