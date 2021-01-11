@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
+    RedCloth (4.2.9-x86-mingw32)
     blankslate (2.1.2.4)
     classifier-reborn (2.0.3)
       fast-stemmer (~> 1.0)
@@ -69,7 +70,7 @@ GEM
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
-    redcarpet (3.3.3)
+    redcarpet (3.5.1)
     safe_yaml (1.0.4)
     sass (3.4.19)
     titlecase (0.1.1)
